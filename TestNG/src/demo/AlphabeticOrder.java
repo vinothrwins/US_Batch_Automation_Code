@@ -4,9 +4,10 @@ import org.testng.annotations.Test;
 
 public class AlphabeticOrder {
   	
+ // Code is updated by Divya 
   @Test
-  public void z() {
-	  System.out.println("Method Z is executed");
+  public void za() {
+	  System.out.println("Method ZA is executed");
   }
 	  
   @Test
